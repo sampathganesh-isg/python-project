@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb85776a-d978-4898-ac04-10ee286acccb" name="Changes" comment="" />
+    <list default="true" id="eb85776a-d978-4898-ac04-10ee286acccb" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/controllers/course_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/registration_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/student_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/course_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/registration_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/student_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/data_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +41,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sampathganesh-isg"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sampathganesh-isg/python-project.git",
+    "accountId": "535e0b0d-c726-44e9-8df4-39e9459c64c5"
+  }
+}]]></component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.endsemproject.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.week1.executor": "Run",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/sampa/Downloads/Toyota Supra - 2870122/files",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -34,6 +76,27 @@
     </key>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1776489860880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776489860880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1776489907869</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776489907869</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
